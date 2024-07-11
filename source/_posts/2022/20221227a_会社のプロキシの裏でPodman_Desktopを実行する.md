@@ -6,6 +6,7 @@ tag:
   - Podman
   - Docker
   - プロキシ
+  - WSL
 category:
   - Infrastructure
 thumbnail: /images/20221227a/thumbnail.png
